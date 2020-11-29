@@ -1,0 +1,12 @@
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/NoPieceMovementException.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/ChessBoard.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/entities/Piece.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/King.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/Rook.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/ChessPiece.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/Bishop.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/Queen.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/NoPathFreeException.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/Knight.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/entities/Board.java
+/Users/amayabalaguer/Documents/MEGAsync/MEGAsync/UPC/ARQSOFT/ARQSOFT_Game/ARQSOFT_Game/src/main/java/edu/upc/etsetb/archsoft/game/server/chess/entities/Pawn.java

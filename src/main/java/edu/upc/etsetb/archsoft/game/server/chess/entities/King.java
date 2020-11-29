@@ -15,6 +15,12 @@ public class King extends ChessPiece {
 
     @Override
     public void isPathFree(int ro, int co, int rd, int cd, ChessBoard board) throws NoPathFreeException {
+        
+        if (board.isPositionEmpty(rd,cd)){
+    //Tiene que hacer algo más?        
+        }else{
+            throw new NoPathFreeException();
+        }
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 

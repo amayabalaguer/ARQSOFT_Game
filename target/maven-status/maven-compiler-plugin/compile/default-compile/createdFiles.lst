@@ -1,0 +1,12 @@
+edu/upc/etsetb/archsoft/game/server/entities/Piece.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/Rook.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/Pawn.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/Knight.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/ChessPiece.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/NoPieceMovementException.class
+edu/upc/etsetb/archsoft/game/server/entities/Board.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/ChessBoard.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/King.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/Queen.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/Bishop.class
+edu/upc/etsetb/archsoft/game/server/chess/entities/NoPathFreeException.class
